@@ -1,4 +1,4 @@
-# STEPin MiniProject_Template Sample
+# STEPin MiniProject_Template Samples
 
 
 |Build|Unit Test|cppcheck|Valgrind|Codacy|
